@@ -37,7 +37,7 @@ LOGIN-SIGNUP/
 
 ### 1️⃣ Build the Docker image
 ```bash
-docker build -t react-docker-login-page .
+docker build . -t docker-demo:latest
 docker run -p 3000:3000 docker-demo
 # Open in browser:
 http://localhost:3000
