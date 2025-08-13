@@ -45,7 +45,7 @@ http://localhost:3000
 ## 📸 Screenshots
 
 ### 1️⃣ Login Page Running on Port 3000
-![Login Page](https://github.com/your-username/your-repo-name/blob/main/screenshots/login-page.png?raw=true)
+![Login Page](https://github.com/omkarnerale18/dockerized-react-login-page/blob/master/screenshots/Login%20page.jpg?raw=etru)
 
 ### 2️⃣ Docker Desktop - Running Container
 ![Docker Container](https://github.com/your-username/your-repo-name/blob/main/screenshots/docker-container.png?raw=true)
