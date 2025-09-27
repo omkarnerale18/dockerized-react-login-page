@@ -18,18 +18,19 @@ A Dockerized **React static login page** built with **Create React App** and con
 
 ---
 
-## 📂 Project Structure
-LOGIN-SIGNUP/
-├── node_modules/
-├── public/
-├── screenshots/
-├── src/
-├── .dockerignore
-├── .gitignore
-├── Dockerfile
-├── package-lock.json
-├── package.json
-└── README.md
+## Screenshots
+ ### Container
+  ![Container](Screenshots/Docker-desktop-container.jpg)
+
+  ### Image
+   ![image](Screenshots/docker-desktop-image.jpg)
+
+   ![image](Screenshots/docker-cmd-login-sign-up.jpg)
+
+   ![image](Screenshots/docker-image-cmd.jpg)
+
+  
+    
 
 
 ---
